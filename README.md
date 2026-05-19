@@ -5,4 +5,4 @@ Full runnable system of code not published as such could violate organization pr
 
 a) TireDegradation graph/icons
 
-b) LiveDataGraph comparing up two selected car telemetry features
+b) LiveDataGraph comparing two selected car telemetry features
