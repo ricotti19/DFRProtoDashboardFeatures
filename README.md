@@ -6,3 +6,7 @@ Full runnable system of code not published as such could violate organization pr
 a) TireDegradation graph/icons
 
 b) LiveDataGraph comparing two selected car telemetry features
+
+Made using Next.js, React, TypeScript, and Recharts
+
+Output: https://youtu.be/dHeLR-mr3eM
